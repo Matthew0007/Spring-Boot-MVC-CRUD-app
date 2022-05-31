@@ -9,7 +9,7 @@
 </head>
 <body>
 <p>hello world</p>
-<a href="/hello"><- home</a>
+<a href="/"><- home</a>
 <form action="/post/${post.id}" method="POST">
     <div>title:</div>
     <input type="text" name="title"/>
